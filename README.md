@@ -30,6 +30,7 @@ The motors are connected to the Arduino UNO as follows:
 
 The Arduino source code is available in the servo_motor.ino file
 
+## Circuit Diagram
 
-
+<img width="1219" height="573" alt="Image" src="https://github.com/user-attachments/assets/aebe901b-70c7-4711-871d-84949cd26939" />
 
