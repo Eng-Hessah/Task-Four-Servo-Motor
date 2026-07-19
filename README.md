@@ -39,6 +39,10 @@ The Arduino source code is available in https://github.com/Eng-Hessah/Task-Four-
 This video presents the final result of the project, where the four  servo motors complete their movement sequence and then move to a 90° position, holding this position until the end of the operation.
 
 
+https://github.com/user-attachments/assets/01c3216e-250f-4646-a537-d59ecd64ad76
+
+
+
 
 
 
