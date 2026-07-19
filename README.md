@@ -37,3 +37,6 @@ The Arduino source code is available in the servo_motor.ino file
 ## Demonstration Video
 
 This video presents the final result of the project, where the four  servo motors complete their movement sequence and then move to a 90° position, holding this position until the end of the operation.
+
+
+
