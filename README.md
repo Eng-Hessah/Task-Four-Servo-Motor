@@ -48,8 +48,8 @@ This video presents the final result of the project, where the four  servo motor
 https://github.com/user-attachments/assets/01c3216e-250f-4646-a537-d59ecd64ad76
 
 
-
-
+## Project Auther
+Hessah Safar Alharthi
 
 
 
