@@ -28,7 +28,7 @@ The motors are connected to the Arduino UNO as follows:
 
 ## Arduino Code
 
-The Arduino source code is available in the servo_motor.ino file
+The Arduino source code is available in https://github.com/Eng-Hessah/Task-Four-Servo-Motor/blob/main/servo_motor.ino
 
 ## Circuit Diagram
 
