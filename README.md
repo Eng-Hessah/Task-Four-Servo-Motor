@@ -66,7 +66,7 @@ void loop() {
   s4.write(90);
   
   while(true);
-}vo_motor.ino…]()
+}
 
 
 ## Circuit Diagram
